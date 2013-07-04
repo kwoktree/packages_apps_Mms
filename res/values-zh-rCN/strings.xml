@@ -379,16 +379,12 @@
     <string name="template_not_present_error">您没有定义任何模板</string>
     <string name="template_not_present_error_title">错误</string>
     <string name="template_select">选择一个模板</string>
-    <string name="template_cancel_confirm_title">警告</string>
-    <string name="template_cancel_confirm_text">这个模板将会被删除。您确定要继续？</string>
     <string name="gestures_already_present">警告：一个相似的手势已关联了另一个模板！</string>
 
     <!-- Change Vibrate pattern/method for message notification -->
     <string name="pref_title_mms_notification_vibrate_settings">震动设置</string>
     <string name="pref_title_mms_notification_vibrate_pattern">震动形式</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">更改震动形式</string>
-    <string name="pref_title_mms_notification_vibrate_call">通话时震动</string>
-    <string name="pref_summary_mms_notification_vibrate_call">允许通话时震动</string>
     <string name="pref_title_mms_notification_vibrate_custom">自定义震动形式</string>
     <string name="pref_text_mms_notification_vibrate_custom">格式 关/开 每毫秒: 关, 开, 关, 开, ...</string>
 
@@ -396,8 +392,6 @@
     <string name="pref_extra_settings">其他设置</string>
 
     <!-- Strip unicode -->
-    <string name="pref_title_strip_unicode">除去 Unicode</string>
-    <string name="pref_summary_strip_unicode">在160字符短信内把不支持的字符替换掉</string>
 
     <!-- Enable emojis -->
     <string name="pref_title_enable_emojis">绘文字支持</string>

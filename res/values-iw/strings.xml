@@ -353,8 +353,6 @@
     <string name="pref_extra_settings">הגדרות נוספות</string>
 
     <!-- Strip unicode -->
-    <string name="pref_title_strip_unicode">הסר תווי Unicode</string>
-    <string name="pref_summary_strip_unicode">החלף תווים נפוצים שאינם נתמכים בהודעות SMS של 160 תווים בתווים דומים (אזהרה: כולל את כל האלפבית העברי!)</string>
 
     <!-- Enable emojis -->
     <string name="pref_title_enable_emojis">תמיכה ב-Emoji</string>
@@ -389,16 +387,12 @@
     <string name="template_not_present_error">אין תבניות מוגדרות</string>
     <string name="template_not_present_error_title">שגיאה</string>
     <string name="template_select">בחר תבנית</string>
-    <string name="template_cancel_confirm_title">אזהרה</string>
-    <string name="template_cancel_confirm_text">התבנית תמחק. להמשיך?</string>
     <string name="gestures_already_present">אזהרה: מחווה דומה משוייכת לתבנית אחרת!</string>
 
     <!-- Change Vibrate pattern/method for message notification -->
     <string name="pref_title_mms_notification_vibrate_settings">הגדרות רטט</string>
     <string name="pref_title_mms_notification_vibrate_pattern">תבנית רטט</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">שנה את תבנית הרטט</string>
-    <string name="pref_title_mms_notification_vibrate_call">רטוט בעת שיחה</string>
-    <string name="pref_summary_mms_notification_vibrate_call">אפשר למכשיר לרטוט בזמן שיחה</string>
     <string name="pref_title_mms_notification_vibrate_custom">תבנית רטט מותאמת אישית</string>
     <string name="pref_text_mms_notification_vibrate_custom">מבנה: כבוי/פועל במילישניות (כבוי,פועל,כבוי,פועל...)</string>
 

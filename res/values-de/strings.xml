@@ -324,14 +324,10 @@
     <string name="template_not_present_error">Es wurden bisher keine Vorlagen angelegt</string>
     <string name="template_not_present_error_title">Fehler</string>
     <string name="template_select">Vorlage auswählen</string>
-    <string name="template_cancel_confirm_title">Warnung</string>
-    <string name="template_cancel_confirm_text">Die Vorlage wird gelöscht. Fortsetzen?</string>
     <string name="gestures_already_present">Warnung: Eine ähnliche Geste wurde bereits mit einer anderen Vorlage verknüpft!</string>
     <string name="pref_title_mms_notification_vibrate_settings">Vibrationseinstellungen</string>
     <string name="pref_title_mms_notification_vibrate_pattern">Vibrationsmuster</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">Vibrationsmuster ändern</string>
-    <string name="pref_title_mms_notification_vibrate_call">Vibrieren bei Anruf</string>
-    <string name="pref_summary_mms_notification_vibrate_call">Vibrieren während eines Anrufs erlauben</string>
     <string name="pref_title_mms_notification_vibrate_custom">Anderes Vibrationsmuster</string>
     <string name="pref_text_mms_notification_vibrate_custom">Format aus/an in Millisekunden: aus, an, aus, an, \u2026</string>
     <string name="pref_title_unicode_stripping">Unicode entfernen</string>
@@ -389,7 +385,6 @@
     <string name="pref_multi_select">Einfache Selektion</string>
     <string name="pref_multi_select_summary">Wählen Sie mehrere Kontakte mit Mehrfachauswahl</string>
     <string name="add_recipients">Empfänger hinzufügen</string>
-    <string name="add_recipients_positive_button">Hinzufügen</string>
     <string-array name="select_dialog_items">
         <item>1 Sekunde</item>
         <item>2 Sekunden</item>

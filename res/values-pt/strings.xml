@@ -324,14 +324,10 @@
     <string name="template_not_present_error">There are no defined templates</string>
     <string name="template_not_present_error_title">Error</string>
     <string name="template_select">Select a template</string>
-    <string name="template_cancel_confirm_title">Warning</string>
-    <string name="template_cancel_confirm_text">The template will be deleted. Continue?</string>
     <string name="gestures_already_present">Warning: A similar gesture is associated to another template!</string>
     <string name="pref_title_mms_notification_vibrate_settings">Vibrate settings</string>
     <string name="pref_title_mms_notification_vibrate_pattern">Vibrate pattern</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">Change vibrate pattern</string>
-    <string name="pref_title_mms_notification_vibrate_call">Vibrate on Call</string>
-    <string name="pref_summary_mms_notification_vibrate_call">Allow vibrate while on a call</string>
     <string name="pref_title_mms_notification_vibrate_custom">Custom vibrate pattern</string>
     <string name="pref_text_mms_notification_vibrate_custom">Format off/on in milliseconds: off, on, off, on, ...</string>
     <string name="pref_title_unicode_stripping">Strip unicode</string>
@@ -389,7 +385,6 @@
     <string name="pref_multi_select">Easy Selector</string>
     <string name="pref_multi_select_summary">Select multiple contacts using a checkbox</string>
     <string name="add_recipients">Add recipients</string>
-    <string name="add_recipients_positive_button">Add</string>
     <string-array name="select_dialog_items">
         <item>1 second</item>
         <item>2 seconds</item>

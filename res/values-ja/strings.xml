@@ -371,12 +371,8 @@
     <string name="template_not_present_error">テンプレートは定義されてません</string>
     <string name="template_not_present_error_title">エラー</string>
     <string name="template_select">テンプレートを選択</string>
-    <string name="template_cancel_confirm_title">警告</string>
-    <string name="template_cancel_confirm_text">テンプレートは削除されます. 続けますか?</string>
     <string name="gestures_already_present">警告: 他のテンプレートに似たようなジェスチャーが設定されています!</string>
     <string name="pref_extra_settings">拡張設定</string>
-    <string name="pref_title_strip_unicode">ユニコードを取り除く</string>
-    <string name="pref_summary_strip_unicode">160文字のSMSメッセージでサポートされない一般的な文字を置き換える</string>
     <string name="pref_title_enable_emojis">絵文字サポート</string>
     <string name="pref_summary_enable_emojis">ユニコード絵文字サポートを有効にする, 471個のステキな絵文字</string>
     <string name="pref_title_mms_full_timestamp">完全なタイムスタンプ</string>
@@ -386,8 +382,6 @@
     <string name="pref_title_mms_notification_vibrate_settings">振動の設定</string>
     <string name="pref_title_mms_notification_vibrate_pattern">振動パターン</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">振動パターンを変更する</string>
-    <string name="pref_title_mms_notification_vibrate_call">着信時に振動</string>
-    <string name="pref_summary_mms_notification_vibrate_call">着信中に振動を許可する</string>
     <string name="pref_title_mms_notification_vibrate_custom">カスタム振動パターン</string>
     <string name="pref_text_mms_notification_vibrate_custom">オフ/オンをミリ秒で記述: オフ, オン, オフ, オン, ...</string>
 </resources>

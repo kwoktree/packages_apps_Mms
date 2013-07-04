@@ -324,14 +324,10 @@
     <string name="template_not_present_error">Chưa có mẫu nào</string>
     <string name="template_not_present_error_title">Lỗi</string>
     <string name="template_select">Chọn một mẫu</string>
-    <string name="template_cancel_confirm_title">Cảnh báo</string>
-    <string name="template_cancel_confirm_text">Các mẫu sẽ bị xóa. Tiếp tục?</string>
     <string name="gestures_already_present">Cảnh báo: Một cử chỉ tương tự đã được gán một mẫu khác!</string>
     <string name="pref_title_mms_notification_vibrate_settings">Cài đặt Rung</string>
     <string name="pref_title_mms_notification_vibrate_pattern">Mẫu rung</string>
     <string name="pref_summary_mms_notification_vibrate_pattern">Thay đổi mẫu Rung</string>
-    <string name="pref_title_mms_notification_vibrate_call">Rung trong cuộc gọi</string>
-    <string name="pref_summary_mms_notification_vibrate_call">Cho phép rung khi đang đàm thoại</string>
     <string name="pref_title_mms_notification_vibrate_custom">Mẫu rung riêng</string>
     <string name="pref_text_mms_notification_vibrate_custom">Bật/Tắt định dạng mili-giây: Tắt, bật, tắt, bật,...</string>
     <string name="pref_title_unicode_stripping">Dải Unicode</string>
@@ -389,7 +385,6 @@
     <string name="pref_multi_select">Chọn dễ dàng</string>
     <string name="pref_multi_select_summary">Chọn nhiều số liên lạc bằng hộp kiểm cho phép chọn nhiều mục</string>
     <string name="add_recipients">Thêm người nhận</string>
-    <string name="add_recipients_positive_button">Thêm</string>
     <string-array name="select_dialog_items">
         <item>1 giây</item>
         <item>2 giây</item>
